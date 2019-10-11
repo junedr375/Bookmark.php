@@ -1,0 +1,19 @@
+.body{
+	background: black;
+}
+.container{
+	background-color:lightblue;
+	padding: 64px;
+}
+.navbar-header{
+	margin-top: 10px;
+	border: 10px;
+	padding: 10px 100px 10px 100px;
+}
+.navbar-brand{
+	text-align: : center;
+	text-decoration-color: blue;
+}
+.form-group{
+	padding: 10px 20px 10px 10px;
+}
